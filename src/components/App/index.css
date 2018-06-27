@@ -1,0 +1,8 @@
+.app {
+  margin: 20px;
+}
+.app.container ul li {
+    float: left;
+    margin-left: 40px;
+    list-style: none;
+}
